@@ -1,0 +1,61 @@
+body {
+  font-family: monospace;
+  font-size: 120%;
+  background-color: white;
+  color: #111;
+  width: 60%;
+  min-width: 300px;
+  min-height: 200px;
+  padding: 2em 4em 2em 4em;
+  margin: 3% 15%;
+  border: thin dashed gray;
+  border-radius: 10px;
+  box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1), 0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1), 0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12), 0 0.125rem 0.1875rem rgba(90, 97, 105, 0.1);
+  display: block;
+}
+
+#banner {
+  text-align: center;
+}
+
+#banner h1 {
+  margin-bottom: 0px;
+}
+
+#banner p {
+  margin-top: 0px;
+}
+
+a:link    { color: blue; text-decoration: none;      }
+a:hover   { color: blue; text-decoration: underline; }
+a:visited { color: blue;                             }
+
+h1 a { color: inherit !important }
+h2 a { color: inherit !important }
+h3 a { color: inherit !important }
+h4 a { color: inherit !important }
+h5 a { color: inherit !important }
+h6 a { color: inherit !important }
+
+
+#menu li {
+    display: inline;
+    margin: 0px;
+}
+
+#post-list {
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+footer {
+  padding-top: 1em;
+  text-align: center;
+  font-size: 75%;
+}
+
+pre {
+    margin: 2em 1em 2em 4em;
+    white-space: pre-wrap;
+}
+
