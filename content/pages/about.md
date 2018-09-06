@@ -9,11 +9,11 @@ Here you can find how to [contact me](contact.html).
 
 ## Scientific publications
 
-- *Helmholtz principle on word embeddings for automatic document segmentation*
+- *Helmholtz principle on word embeddings for automatic document segmentation* | 
 Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
 <a href="http://orca.cf.ac.uk/112497/" target="_blank">18th ACM Symposium on Document Engineering</a>
 
-- *Breakdown of long-range temporal correlations in brain oscillations during general anesthesia*
+- *Breakdown of long-range temporal correlations in brain oscillations during general anesthesia* | 
 Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017) 
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917306158" target="_blank">Neuroimage</a>
 
@@ -29,16 +29,16 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 - [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D brains project, created at **OHBM Hackathon 2018** in Singapore.
 
-- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps to discover all TODO places in the RStudio.
+- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio.
 
 - [DFA python](https://github.com/dokato/dfa) - surprisingly popular simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
 
-- [ConnectiviPy](https://github.com/dokato/connectivipy) - **Google Summer of Code** 2016 project. From scratch implementation of python module with various brain connectivity estimators.
+- [ConnectiviPy](https://github.com/dokato/connectivipy) - **Google Summer of Code** 2016 project. From scratch implementation of a Python module with various brain connectivity estimators.
 
 - Contributions to open source packages: *sklearn*, *shiny.semantic*, *shiny.collections*, *shiny.i18n*, *semantic.dashboard*, *mljar*, *brian2*, *mne-python* and <a href="https://github.com/dokato" target="_blank">more...</a>
 
 ## Talks
 
-Some of the talks I gave at **meet-ups**: [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), **scientific conferences**: *Aspects of Neuroscience*, or **workshops**: [Big Data and HPC](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing).
+Some of the talks I gave at **meet-ups**: [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), **scientific conferences**: *Aspects of Neuroscience*, or **workshops**: [Big Data and HPC](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing).
 
 In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
