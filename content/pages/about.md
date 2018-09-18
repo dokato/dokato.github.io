@@ -19,6 +19,8 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## Other publications
 
+- <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
+
 - <a href="https://appsilondatascience.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/" target="_blank"> Create outstanding dashboards with the new semantic.dashboard package </a> - 2018
 
 - <a href="https://appsilondatascience.com/shiny-chat-in-few-lines-of-code/" target="_blank"> Shiny chat in few lines of code </a> - 2017
