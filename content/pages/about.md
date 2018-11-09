@@ -19,6 +19,8 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## Other publications
 
+- <a href="http://www.deltami.edu.pl/temat/informatyka/sztuczna_inteligencja/2018/10/22/Nie_takie_sztuczne_neurony/" target="_blank"> Not so artificial neurons (only in PL)</a> - article in a famous Polish popular science magazine
+
 - <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
 
 - <a href="https://appsilondatascience.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/" target="_blank"> Create outstanding dashboards with the new semantic.dashboard package </a> - 2018
@@ -36,6 +38,8 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 - [DFA python](https://github.com/dokato/dfa) - surprisingly popular simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
 
 - [ConnectiviPy](https://github.com/dokato/connectivipy) - **Google Summer of Code** 2016 project. From scratch implementation of a Python module with various brain connectivity estimators.
+
+- [nounprojectR](https://github.com/CaRdiffR/nounprojectR) - RStudio addin to R API for The Noun Project - a popular catalogue of icons.
 
 - Contributions to open source packages: *sklearn*, *shiny.semantic*, *shiny.collections*, *shiny.i18n*, *semantic.dashboard*, *mljar*, *brian2*, *mne-python* and <a href="https://github.com/dokato" target="_blank">more...</a>
 
