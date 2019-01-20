@@ -39,7 +39,7 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 - [ConnectiviPy](https://github.com/dokato/connectivipy) - **Google Summer of Code** 2016 project. From scratch implementation of a Python module with various brain connectivity estimators.
 
-- [nounprojectR](https://github.com/CaRdiffR/nounprojectR) - RStudio addin to R API for The Noun Project - a popular catalogue of icons.
+- [nounprojectR](https://github.com/CaRdiffR/nounprojectR) - **RStudio addin** to R API for The Noun Project - a popular catalogue of icons.
 
 - Contributions to open source packages: *sklearn*, *shiny.semantic*, *shiny.collections*, *shiny.i18n*, *semantic.dashboard*, *mljar*, *brian2*, *mne-python* and <a href="https://github.com/dokato" target="_blank">more...</a>
 
