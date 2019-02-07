@@ -48,4 +48,4 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 Some of the talks I gave at **meet-ups**: [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), **scientific conferences**: *Aspects of Neuroscience*, or **workshops**: [Big Data and HPC](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing).
 
-In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
+In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**, promoting good programming standards.
