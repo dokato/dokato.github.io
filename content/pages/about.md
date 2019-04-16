@@ -2,7 +2,7 @@ Title: Home Page
 URL:
 save_as: index.html
 
-I'm a **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based at the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
+I'm a **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
 Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon Data Science</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
 
 Here you can find how to [contact me](contact.html).
@@ -44,7 +44,7 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 - Contributions to open source packages: *sklearn*, *shiny.semantic*, *shiny.collections*, *shiny.i18n*, *semantic.dashboard*, *mljar*, *brian2*, *mne-python* and <a href="https://github.com/dokato" target="_blank">more...</a>
 
-## <i class="fas fa-globe-europe"></i> Talks
+## <i class="fas fa-globe-europe"></i> Events
 
 Some of the talks I gave at **meet-ups**: [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), **scientific conferences**: *Aspects of Neuroscience*, or **workshops**: [Big Data and HPC](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing).
 
