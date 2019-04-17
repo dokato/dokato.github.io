@@ -20,7 +20,7 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## <i class="fas fa-pen-nib"></i> Other publications
 
-- <a href="http://www.deltami.edu.pl/temat/informatyka/sztuczna_inteligencja/2018/10/22/Nie_takie_sztuczne_neurony/" target="_blank"> Not so artificial neurons [only PL]</a> - article in a famous Polish popular science magazine **Delta**; 2018
+- <a href="http://www.deltami.edu.pl/temat/informatyka/sztuczna_inteligencja/2018/10/22/Nie_takie_sztuczne_neurony/" target="_blank"> Not so artificial neurons [only PL]</a> - article in Polish popular science magazine **Delta**; 2018
 
 - <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
 
