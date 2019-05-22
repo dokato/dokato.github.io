@@ -9,7 +9,6 @@ Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
-
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
 Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
 <a href="http://orca.cf.ac.uk/112497/" target="_blank">18th ACM Symposium on Document Engineering</a>
@@ -26,15 +25,15 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 - <a href="https://appsilondatascience.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/" target="_blank"> Create outstanding dashboards with the new semantic.dashboard package </a> - 2018
 
-- <a href="https://appsilondatascience.com/shiny-chat-in-few-lines-of-code/" target="_blank"> Shiny chat in few lines of code </a> - 2017
+- <a href="https://appsilondatascience.com/shiny-chat-in-few-lines-of-code/" target="_blank"> Shiny chat in a few lines of code </a> - 2017
 
 - <a href="https://medium.com/@MLJARofficial/churn-prediction-1416339c55f" target="_blank"> Churn prediction</a> - 2017
 
 ## <i class="fas fa-laptop"></i> Software
 
-- [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D brains project, created at **OHBM Hackathon 2018** in Singapore.
+- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **addin of the day by RStudio**).
 
-- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio.
+- [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D brains project, created at **OHBM Hackathon 2018** in Singapore.
 
 - [DFA python](https://github.com/dokato/dfa) - surprisingly popular simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
 
@@ -46,6 +45,19 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## <i class="fas fa-globe-europe"></i> Events
 
-Some of the talks I gave at **meet-ups**: [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), **scientific conferences**: *Aspects of Neuroscience*, or **workshops**: [Big Data and HPC](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing).
+Some of the talks, poster presentations or workshops that I presented or tutored.
 
-In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**, promoting good programming standards.
+**Scientific conferences**:
+
+*HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *SPP 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+
+**Workshops**:
+
+[Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [Big Data and HPC 2018](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/) (Warsaw)
+
+In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
+
+**Meet-ups**:
+
+[satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
+

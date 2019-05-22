@@ -13,6 +13,12 @@ Sanity check: you should get 12 character login.
 This is followed by **@cardiff.ac.uk** .
 
 <center>
-<a href="https://github.com/dokato"><i class="fab fa-github"></i></a>
-<a href="https://twitter.com/dokatox"><i class="fab fa-twitter-square"></i></a>
- </center>
+____
+</center>
+
+Other places:
+
+<center>
+<a href="https://github.com/dokato"><i class="fab fa-github fa-2x"></i></a>
+<a href="https://twitter.com/dokatox"><i class="fab fa-twitter-square fa-2x"></i></a>
+</center>
