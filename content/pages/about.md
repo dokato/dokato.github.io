@@ -3,11 +3,17 @@ URL:
 save_as: index.html
 
 I'm a **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
-Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon Data Science</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
+Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon Data Science</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). It happened to me to work on brain computer-interfaces, natural language processing and neural networks.
+
+I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
 
 Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
+
+- *Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape* | 
+Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2019) 
+<a href="https://www.biorxiv.org/content/10.1101/703074v1" target="_blank">biorxiv preprint</a>
 
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
 Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
@@ -31,9 +37,9 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## <i class="fas fa-laptop"></i> Software
 
-- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **addin of the day by RStudio**).
+- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
 
-- [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D brains project, created at **OHBM Hackathon 2018** in Singapore.
+- [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
 
 - [DFA python](https://github.com/dokato/dfa) - surprisingly popular simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
 
@@ -45,15 +51,15 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## <i class="fas fa-globe-europe"></i> Events
 
-Some of the talks, poster presentations or workshops that I presented or tutored.
+Some of the talks, poster presentations that I presented or workshops I tutored.
 
 **Scientific conferences**:
 
-*HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *SPP 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*SFN 2019* (Chicago), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
-[Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [Big Data and HPC 2018](https://www.cardiff.ac.uk/study/international/summer-schools/big-data-and-high-performance-computing), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/) (Warsaw)
+[Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/physical-sciences-and-engineering/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
 
 In May 2018 I co-organized the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
 
