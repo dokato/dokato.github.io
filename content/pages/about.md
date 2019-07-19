@@ -39,7 +39,7 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 - [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
 
-- [ARmadillo](https://www.armadillobrain.app) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
+- [ARmadillo](https://armadillo-brain.herokuapp.com/) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
 
 - [DFA python](https://github.com/dokato/dfa) - surprisingly popular simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
 
