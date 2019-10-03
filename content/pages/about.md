@@ -13,7 +13,7 @@ Here you can find how to [contact me](contact.html).
 
 - *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
 Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-31635-8_229" target="_blank">biorxiv preprint</a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-31635-8_229" target="_blank">Proceedings of MEDICON 2019</a>
 
 - *Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape* | 
 Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2019) 
