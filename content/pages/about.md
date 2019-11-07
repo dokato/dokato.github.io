@@ -11,6 +11,10 @@ Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
+- *Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text Mining Approach* | 
+Spasic, I., Krzemiński, D., Corcoran, P., Balinsky, A. (2019) 
+<a href="https://medinform.jmir.org/2019/4/e15980/" target="_blank">JMIR Medical Informatics</a>
+
 - *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
 Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-31635-8_229" target="_blank">Proceedings of MEDICON 2019</a>
