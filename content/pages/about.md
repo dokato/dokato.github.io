@@ -11,6 +11,10 @@ Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
+- *Reward certainty and preference bias selectively shape voluntary decisions* | 
+Zajkowski, W., Krzemiński, D., Barone, J., Evans. LH., Zhang, J. (2019) 
+<a href="https://www.biorxiv.org/content/10.1101/832311v1" target="_blank">biorxiv preprint</a>
+
 - *Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text Mining Approach* | 
 Spasic, I., Krzemiński, D., Corcoran, P., Balinsky, A. (2019) 
 <a href="https://medinform.jmir.org/2019/4/e15980/" target="_blank">JMIR Medical Informatics</a>
@@ -67,14 +71,14 @@ Non-exhaustive list of my public presentations.
 
 **Workshops**:
 
-[Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/physical-sciences-and-engineering/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
+[Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/summer-school-programmes/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
 
 **Meet-ups**:
 
-[satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
+[SatRday Cardiff](https://cardiff2019.satrdays.org/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
 
 **Organisation**:
 
 In May 2018 I co-organised a workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
 
-Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019).
+Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organising [SatRday Cardiff](https://cardiff2019.satrdays.org/).
