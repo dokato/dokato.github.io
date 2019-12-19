@@ -81,4 +81,4 @@ Non-exhaustive list of my public presentations.
 
 In May 2018 I co-organised a workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
 
-Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organising [SatRday Cardiff](https://cardiff2019.satrdays.org/).
+Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organised [SatRday Cardiff](https://cardiff2019.satrdays.org/).
