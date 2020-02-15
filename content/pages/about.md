@@ -2,7 +2,7 @@ Title: Home Page
 URL:
 save_as: index.html
 
-I'm a **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
+I'm **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
 Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon Data Science</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). It happened to me to work on brain computer-interfaces, natural language processing and neural networks.
 
 I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
@@ -10,6 +10,10 @@ I'm also advocate of the **open science** movement and enjoy contributing to **o
 Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
+
+- *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
+Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2019) 
+<a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
 
 - *Reward certainty and preference bias selectively shape voluntary decisions* | 
 Zajkowski, W., Krzemiński, D., Barone, J., Evans. LH., Zhang, J. (2019) 
@@ -22,10 +26,6 @@ Spasic, I., Krzemiński, D., Corcoran, P., Balinsky, A. (2019)
 - *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
 Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-31635-8_229" target="_blank">Proceedings of MEDICON 2019</a>
-
-- *Frontoparietal network dynamics impairments in juvenile myoclonic epilepsy revealed by MEG energy landscape* | 
-Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2019) 
-<a href="https://www.biorxiv.org/content/10.1101/703074v1" target="_blank">biorxiv preprint</a>
 
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
 Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
@@ -48,6 +48,8 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 - <a href="https://medium.com/@MLJARofficial/churn-prediction-1416339c55f" target="_blank"> Churn prediction</a> - 2017
 
 ## <i class="fas fa-laptop"></i> Software
+
+- [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - tool that provides users with a ranking of online medical information source credibility. Created at NHS HackDay 2020 - 3rd place in a community vote. Chrome extension available to download from a <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank">store</a>.
 
 - [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
 
@@ -77,8 +79,6 @@ Non-exhaustive list of my public presentations.
 
 [SatRday Cardiff](https://cardiff2019.satrdays.org/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
 
-**Organisation**:
+### <i class="fas fa-people-carry"></i> Community
 
-In May 2018 I co-organised a workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards.
-
-Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organised [SatRday Cardiff](https://cardiff2019.satrdays.org/).
+In May 2018 I co-organised the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards. Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organised [SatRday Cardiff](https://cardiff2019.satrdays.org/) I am active member of CaRdiff R Users meetup and PyData Cardiff.
