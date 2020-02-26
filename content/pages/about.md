@@ -49,9 +49,9 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 
 ## <i class="fas fa-laptop"></i> Software
 
-- [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - tool that provides users with a ranking of online medical information source credibility. Created at NHS HackDay 2020 - 3rd place in a community vote. Chrome extension available to download from a <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank">store</a>.
+- [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - provides users with a ranking of online medical information sources credibility. Created at **NHS HackDay 2020** - 3rd place in a community vote. Chrome extension available to download from the <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank"> Chrome store</a>.
 
-- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (titled an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
+- [TODOr](https://github.com/dokato/todor) - **R addin**, which helps discover all TODO places in the RStudio (rewarded as an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
 
 - [ARmadillo](https://armadillo-brain.herokuapp.com/) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
 
@@ -79,6 +79,9 @@ Non-exhaustive list of my public presentations.
 
 [SatRday Cardiff](https://cardiff2019.satrdays.org/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
 
-### <i class="fas fa-people-carry"></i> Community
+## <i class="fas fa-people-carry"></i> Community
 
-In May 2018 I co-organised the workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4** promoting good programming standards. Also, I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organised [SatRday Cardiff](https://cardiff2019.satrdays.org/) I am active member of CaRdiff R Users meetup and PyData Cardiff.
+In May 2018 I co-organised workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**, promoting good programming standards for reproducible research.
+
+I was helping out at [BMVC](http://bmvc2019.org) conference in Cardiff (2019) and co-organised [SatRday Cardiff](https://cardiff2019.satrdays.org/). Also, I am active member of CaRdiff R Users meetup, AI Wales and PyData Cardiff.
+
