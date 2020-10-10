@@ -12,12 +12,10 @@ Here you can find how to [contact me](contact.html).
 ## <i class="fas fa-atom"></i> Scientific publications
 
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
-Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2019) 
+Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2020) 
 <a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
 
-- *Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text Mining Approach* | 
-Spasic, I., Krzemiński, D., Corcoran, P., Balinsky, A. (2019) 
-<a href="https://medinform.jmir.org/2019/4/e15980/" target="_blank">JMIR Medical Informatics</a>
+- *A spiking neuron model of inferential decision making:Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, Krzemiński, D., Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
 
 - *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
 Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
@@ -25,7 +23,7 @@ Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019)
 
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
 Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
-<a href="http://orca.cf.ac.uk/112497/" target="_blank">18th ACM Symposium on Document Engineering</a>
+<a href="https://dl.acm.org/doi/abs/10.1145/3209280.3229103" target="_blank">18th ACM Symposium on Document Engineering</a>
 
 - *Breakdown of long-range temporal correlations in brain oscillations during general anesthesia* | 
 Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017) 
