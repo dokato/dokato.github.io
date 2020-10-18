@@ -8,7 +8,7 @@ save_as: publications.html
 Lopes, MA, Zhang, J., **Krzemiński, D.**, Hamandi, K., Chen, Q., Livi, L., Masuda, N. (2020) 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.14960" target="_blank">European Journal of Neuroscience</a>
 
-- *A spiking neuron model of inferential decision making:Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, **Krzemiński, D.**, Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
+- *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, **Krzemiński, D.**, Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
 
 - *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | 
 Lopes, MA, **Krzemiński, D.**,  , Hamandi, K., Singh, KD., Masuda, N., Terry, JR., Zhang, J. (2020) 

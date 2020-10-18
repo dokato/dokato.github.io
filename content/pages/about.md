@@ -15,7 +15,7 @@ Here you can find how to [contact me](contact.html).
 Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2020) 
 <a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
 
-- *A spiking neuron model of inferential decision making:Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, Krzemiński, D., Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
+- *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, Krzemiński, D., Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
 
 - *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
 Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
@@ -34,6 +34,8 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 </center>
 
 ## <i class="fas fa-pen-nib"></i> Other publications
+
+- <a href="https://ccbrain.org/science/Onlinetesting/" target="_blank"> Our experience running online experiments </a> - 2020
 
 - <a href="https://appsilon.com/generate-shiny-code-with-rnn/" target="_blank"> Can we use a neural network to generate Shiny code? </a> - 2019
 
