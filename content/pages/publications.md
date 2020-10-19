@@ -10,6 +10,9 @@ Lopes, MA, Zhang, J., **Krzemiński, D.**, Hamandi, K., Chen, Q., Livi, L., Masu
 
 - *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, **Krzemiński, D.**, Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
 
+- *BCIAUT-P300: A Multi-Session and Multi-Subject Benchmark Dataset on Autism for P300-Based Brain-Computer-Interfaces* | Simões, M., Borra, D., ..., **Krzemiński, D.**,  ..., Castelo-Branco, M. (2020) 
+<a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.568104/full" target="_blank">Front. Neurosci.</a>
+
 - *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | 
 Lopes, MA, **Krzemiński, D.**,  , Hamandi, K., Singh, KD., Masuda, N., Terry, JR., Zhang, J. (2020) 
 <a href="https://www.medrxiv.org/content/10.1101/2020.05.18.20102681v1" target="_blank">medrxiv preprint</a>
