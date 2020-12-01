@@ -4,6 +4,10 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
+- *Reward certainty and preference bias selectively shape voluntary decisions* | 
+Zajkowski, W., **Krzemiński, D.**, Barone, J., Evans. LH., Zhang, J. (2020) 
+<a href="https://link.springer.com/article/10.1007/s42113-020-00096-6" target="_blank">Computational Brain & Behavior</a>
+
 - *Recurrence Quantification Analysis of Dynamic Brain Networks* | 
 Lopes, MA, Zhang, J., **Krzemiński, D.**, Hamandi, K., Chen, Q., Livi, L., Masuda, N. (2020) 
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.14960" target="_blank">European Journal of Neuroscience</a>
@@ -20,10 +24,6 @@ Lopes, MA, **Krzemiński, D.**,  , Hamandi, K., Singh, KD., Masuda, N., Terry, J
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
 **Krzemiński, D.**, Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2020) 
 <a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
-
-- *Reward certainty and preference bias selectively shape voluntary decisions* | 
-Zajkowski, W., **Krzemiński, D.**, Barone, J., Evans. LH., Zhang, J. (2020) 
-<a href="https://www.biorxiv.org/content/10.1101/832311v1" target="_blank">Computational Brain & Behavior</a>
 
 - *Cohort Selection for Clinical Trials From Longitudinal Patient Records: Text Mining Approach* | 
 Spasic, I., **Krzemiński, D.**, Corcoran, P., Balinsky, A. (2019) 
