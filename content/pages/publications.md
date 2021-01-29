@@ -4,10 +4,9 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
-- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J. (2021)
-Thomas KA, **Krzemiński D**, Kidziński Ł., Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
+- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
 
-- *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J. (2021) <a href="https://doi.org/10.1101/2020.05.18.20102681" target="_blank">Clinical Neurophysiology</a>
+- *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J (2021) <a href="https://doi.org/10.1101/2020.05.18.20102681" target="_blank">Clinical Neurophysiology</a>
 
 - *Breaking Deadlocks: Reward Probability and Spontaneous Preference Shape Voluntary Decisions and Electrophysiological Signals in Humans* | 
 Zajkowski W, **Krzemiński D**, Barone J, Evans LH, Zhang J (2020) 
@@ -21,10 +20,6 @@ Lopes MA, Zhang J, **Krzemiński D**, Hamandi K, Chen Q, Livi L, Masuda N (2020)
 
 - *BCIAUT-P300: A Multi-Session and Multi-Subject Benchmark Dataset on Autism for P300-Based Brain-Computer-Interfaces* | Simões M, Borra D, ..., **Krzemiński D**,  ..., Castelo-Branco M (2020) 
 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.568104/full" target="_blank">Front. Neurosci.</a>
-
-- *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | 
-Lopes MA, **Krzemiński D**,  , Hamandi K, Singh KD, Masuda N, Terry JR, Zhang J (2020) 
-<a href="https://www.medrxiv.org/content/10.1101/2020.05.18.20102681v1" target="_blank">medrxiv preprint</a>
 
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
 **Krzemiński D**, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020) 

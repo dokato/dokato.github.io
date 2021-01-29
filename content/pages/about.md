@@ -11,8 +11,7 @@ Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
-- - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J. (2021)
-Thomas KA, **Krzemiński D**, Kidziński Ł., Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
+- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
 
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
 **Krzemiński D**, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020) 
@@ -65,7 +64,7 @@ Non-exhaustive list of my public presentations.
 
 **Scientific conferences**:
 
-*Neuromatch2 (online)*, *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
