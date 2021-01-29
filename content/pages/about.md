@@ -3,7 +3,7 @@ URL:
 save_as: index.html
 
 I'm **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
-Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon Data Science</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). It happened to me to work on brain computer-interfaces, natural language processing and neural networks.
+Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). Among the others, I worked on brain computer-interfaces, natural language processing and neural networks.
 
 I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
 
@@ -11,22 +11,20 @@ Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
+- - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J. (2021)
+Thomas KA, **Krzemiński D**, Kidziński Ł., Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
+
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
-Krzemiński, D., Masuda, N., Hamandi, K., Singh, KD., Routley, B., Zhang, J. (2020) 
+**Krzemiński D**, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020) 
 <a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
 
-- *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins, P, Krzemiński, D., Eliasmith, C., Wichary, S. (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a> 
-
-- *Classification of P300 Component Using a Riemannian Ensemble Approach* | 
-Krzemiński, D., Michelmann, S., Treder, M., Santamaria, L. (2019) 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-31635-8_229" target="_blank">Proceedings of MEDICON 2019</a>
+- *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins P, **Krzemiński D**, Eliasmith C, Wichary S (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a>
 
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
-Krzemiński, D., Balinsky, H., Balinsky, A. (2018) 
+**Krzemiński D**, Balinsky H, Balinsky A (2018) 
 <a href="https://dl.acm.org/doi/abs/10.1145/3209280.3229103" target="_blank">18th ACM Symposium on Document Engineering</a>
 
-- *Breakdown of long-range temporal correlations in brain oscillations during general anesthesia* | 
-Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017) 
+- *Breakdown of long-range temporal correlations in brain oscillations during general anesthesia* | **Krzemiński D**, Kamiński M, Marchewka A, Bola M (2017) 
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917306158" target="_blank">Neuroimage</a>
 
 <center>
@@ -44,8 +42,6 @@ Krzemiński, D., Kamiński, M., Marchewka, A., Bola, M.  (2017)
 - <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
 
 - <a href="https://appsilondatascience.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/" target="_blank"> Create outstanding dashboards with the new semantic.dashboard package </a> - 2018
-
-- <a href="https://medium.com/@MLJARofficial/churn-prediction-1416339c55f" target="_blank"> Churn prediction</a> - 2017
 
 ## <i class="fas fa-laptop"></i> Software
 
@@ -83,6 +79,8 @@ Non-exhaustive list of my public presentations.
 
 I am active member of CaRdiff R Users meetup, AI Wales and PyData Cardiff.
 
+Some other activities I was involved in:
+
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 
 - (2020) Tutoring *Shiny workshop*, organised  by CaRdiff R Users group;
@@ -91,5 +89,5 @@ I am active member of CaRdiff R Users meetup, AI Wales and PyData Cardiff.
 
 - (2019) Helping out at [BMVC](http://bmvc2019.org) conference in Cardiff;
 
-- (2018) Co-organising workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**. Workshop aimed to promote good programming standards for reproducible research.
+- (2018) Organising workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**. The workshop aimed to promote good programming standards for reproducible research.
 
