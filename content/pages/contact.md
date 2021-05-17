@@ -6,11 +6,11 @@ save_as: contact.html
 <i class="fas fa-mail-bulk"></i>
 </center>
 
-The best way to contact me is via **email**. My work e-mail address consists of my second name without diacritic sign (so n instead of ń) concatenated with **dk**.
+The best way to contact me is via **email**. My work address consists of my initials with the extra "k". To this you need to add the outcome of 35-2.
 
-Sanity check: you should get 12 character login.
+_Sanity check_: you should get 5 characters long login.
 
-This is followed by **@cardiff.ac.uk** .
+This is followed by **@cam.ac.uk** .
 
 <center>
 ____

@@ -2,14 +2,15 @@ Title: Home Page
 URL:
 save_as: index.html
 
-I'm **computational neuroscience** PhD student working at the <a href="http://ccbrain.org" target="_blank">Cognitive and Computational Brain</a> lab based in the <a href="https://www.cardiff.ac.uk/cardiff-university-brain-research-imaging-centre" target="_blank">Cardiff University Brain Research Imaging Centre</a>.
-Moreover, I help <a href="http://appsilondatascience.com/" target="_blank">Appsilon</a> team to develop their open source R packages. I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans and machines). Among the others, I worked on brain computer-interfaces, natural language processing and neural networks.
+I'm **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans, flies and machines).
+In 2021 I became a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow. Among the others, I worked in the past on brain computer-interfaces, psychophysics, brain connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">Shiny</a> packages and neural networks.
 
 I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
 
 Here you can find how to [contact me](contact.html).
 
-## <i class="fas fa-atom"></i> Scientific publications
+## <i class="fas fa-atom"></i> Research publications
 
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
 
@@ -30,7 +31,7 @@ Here you can find how to [contact me](contact.html).
 <h4>[More...](publications.html)</h4>
 </center>
 
-## <i class="fas fa-pen-nib"></i> Other publications
+## <i class="fas fa-pen-nib"></i> Other writing
 
 - <a href="https://ccbrain.org/science/Onlinetesting/" target="_blank"> Our experience running online experiments </a> - 2020
 
@@ -40,13 +41,11 @@ Here you can find how to [contact me](contact.html).
 
 - <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
 
-- <a href="https://appsilondatascience.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/" target="_blank"> Create outstanding dashboards with the new semantic.dashboard package </a> - 2018
-
 ## <i class="fas fa-laptop"></i> Software
 
-- [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - provides users with a ranking of online medical information sources credibility. Created at **NHS HackDay 2020** - 3rd place in a community vote. Chrome extension available to download from the <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank"> Chrome store</a>. Also sister project: <a href="https://www.authentisci.com/" target="_blank"> AuthentiSci</a>.
-
 - [TODOr](https://github.com/dokato/todor) - **addin to RStudio**, which helps discover all TODO places in the RStudio (rewarded as an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
+
+- [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - provides users with a ranking of online medical information sources credibility. Created at **NHS HackDay 2020** - 3rd place in a community vote. Chrome extension available to download from the <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank"> Chrome store</a>. Also, see sister project: <a href="https://www.authentisci.com/" target="_blank"> AuthentiSci</a>.
 
 - [ARmadillo](https://armadillo-brain.herokuapp.com/) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
 
@@ -64,25 +63,23 @@ Non-exhaustive list of my public presentations.
 
 **Scientific conferences**:
 
-*MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
-[Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/summer-school-programmes/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at satRdays Gdansk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
+[Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/summer-school-programmes/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at SatRday Gdańsk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
 
 **Meet-ups**:
 
-[SatRday Cardiff](https://cardiff2019.satrdays.org/), [satRdays Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
+[SatRday Cardiff](https://cardiff2019.satrdays.org/), [SatRday Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
 
 ## <i class="fas fa-people-carry"></i> Community
 
-I am active member of CaRdiff R Users meetup, AI Wales and PyData Cardiff.
-
-Some other activities I was involved in:
+I am active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
 
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 
-- (2020) Tutoring *Shiny workshop*, organised  by CaRdiff R Users group;
+- (2020) Tutoring *Shiny workshop*, organised  by [CaRdiff R Users](https://github.com/CaRdiffR/) group;
 
 - (2019) Co-organising [SatRday Cardiff](https://cardiff2019.satrdays.org/);
 
