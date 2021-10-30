@@ -3,16 +3,15 @@ URL:
 save_as: index.html
 
 I'm **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans, flies and machines).
-In 2021 I became a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow. Among the others, I worked in the past on brain computer-interfaces, psychophysics, brain connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">Shiny</a> packages and neural networks.
-
-I'm also advocate of the **open science** movement and enjoy contributing to **open source** tools.
+I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans, animals and machines).
+In 2021 I became a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, where I advocate for the **open science** movement; for example by contributing to **open source** projects.
+Among others, in the past, I worked on brain computer-interfaces, psychophysics, brain functional connectivity estimators, natural language processing, <a href="https://shiny.tools/" target="_blank">Shiny</a> packages and artificial neural networks.
 
 Here you can find how to [contact me](contact.html).
 
 ## <i class="fas fa-atom"></i> Research publications
 
-- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
+- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
 
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
 **Krzemiński D**, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020) 

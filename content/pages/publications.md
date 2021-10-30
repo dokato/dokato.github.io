@@ -4,7 +4,9 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Scientific publications
 
-- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://arxiv.org/abs/2012.12406" target="_blank">ArXiv preprint</a>
+- *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
+
+- *Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes* | **Krzemiński D**, Zhang J (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.03.14.435307v1" target="_blank">bioRxiv</a>
 
 - *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J (2021) <a href="https://doi.org/10.1101/2020.05.18.20102681" target="_blank">Clinical Neurophysiology</a>
 
