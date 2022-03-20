@@ -2,10 +2,10 @@ Title: Home Page
 URL:
 save_as: index.html
 
-I'm **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **neuroscience** and **machine-learning**, particularly **decision making** (of humans, animals and machines).
-In 2021 I became a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, where I advocate for the **open science** movement; for example by contributing to **open source** projects.
-Among others, in the past, I worked on brain computer-interfaces, psychophysics, brain functional connectivity estimators, natural language processing, <a href="https://shiny.tools/" target="_blank">Shiny</a> packages and artificial neural networks.
+I work as a **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **neuroscience** and **machine learning**, particularly **decision making** (of humans, animals and machines).
+I am <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, where I advocate for the **open science**, by promoting good coding practices and contributing to **open source** projects.
+Among others, I worked on brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
 
 Here you can find how to [contact me](contact.html).
 
