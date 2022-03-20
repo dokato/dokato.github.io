@@ -27,10 +27,12 @@ Here you can find how to [contact me](contact.html).
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917306158" target="_blank">Neuroimage</a>
 
 <center>
-<h4>[More...](publications.html)</h4>
+### [More...](publications.html)
 </center>
 
 ## <i class="fas fa-pen-nib"></i> Other writing
+
+- <a href="https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review" target="_blank"> Treat your research code with a code review </a> - 2022
 
 - <a href="https://ccbrain.org/science/Onlinetesting/" target="_blank"> Our experience running online experiments </a> - 2020
 
