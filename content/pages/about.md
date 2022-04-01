@@ -4,10 +4,11 @@ save_as: index.html
 
 I work as a **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
 I'm interested in **neuroscience** and **machine learning**, particularly **decision making** (of humans, animals and machines).
-I am <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, where I advocate for the **open science**, by promoting good coding practices and contributing to **open source** projects.
-Among others, I worked on brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow and <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank"> Cambridge Data Champion</a>, I advocate for **open science**, by promoting good coding practices and contributing to **open source** software.
 
-Here you can find how to [contact me](contact.html).
+Some projects I worked on include: brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+
+[Get in touch](contact.html).
 
 ## <i class="fas fa-atom"></i> Research publications
 

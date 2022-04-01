@@ -6,11 +6,14 @@ save_as: contact.html
 <i class="fas fa-mail-bulk"></i>
 </center>
 
-The best way to contact me is via **email**. My work address consists of my initials with the extra "k". To this you need to add the outcome of 35-2.
+The best way to contact me is via **email** (remove spaces):
 
-_Sanity check_: you should get 5 characters long login.
+*d*
+*k*
+*k*
+*33*
 
-This is followed by **@cam.ac.uk** .
+followed by **@cam.ac.uk**
 
 <center>
 ____
