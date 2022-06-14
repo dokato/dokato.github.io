@@ -8,7 +8,9 @@ As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainabili
 
 Some projects I worked on include: brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
 
-[Get in touch](contact.html).
+<center>
+<b><a href="contact.html" > Get in touch </a></b>
+</center>
 
 ## <i class="fas fa-atom"></i> Research publications
 
@@ -28,7 +30,7 @@ Some projects I worked on include: brain computer-interfaces, psychophysics, bra
 <a href="https://www.sciencedirect.com/science/article/pii/S1053811917306158" target="_blank">Neuroimage</a>
 
 <center>
-### [More...](publications.html)
+<h3><a href="publications.html" > More... </a></h3>
 </center>
 
 ## <i class="fas fa-pen-nib"></i> Other writing
@@ -65,10 +67,11 @@ Non-exhaustive list of my public presentations.
 
 **Scientific conferences**:
 
-*SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*PyConIT 22* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
+[Code Review Workshop 2022](https://codereviewworkshop.netlify.app/)
 [Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/summer-school-programmes/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at SatRday Gdańsk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
 
 **Meet-ups**:
@@ -77,7 +80,9 @@ Non-exhaustive list of my public presentations.
 
 ## <i class="fas fa-people-carry"></i> Community
 
-I am active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
+I am/was active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
+
+- (2021/22) Data Champions Community at *University of Cambridge*.
 
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 
