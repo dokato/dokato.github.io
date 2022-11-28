@@ -2,9 +2,9 @@ Title: Scientific publications
 URL: publications
 save_as: publications.html
 
-## <i class="fas fa-atom"></i> Scientific publications
+## <i class="fas fa-atom"></i> Research publications
 
-- *Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes* | **Krzemiński D**, Zhang J (2022) <a href="https://www.biorxiv.org/content/10.1101/2021.03.14.435307v1" target="_blank">Attention, Perception & Psychophysics</a>
+- *Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes* | **Krzemiński D**, Zhang J (2022) <a href="http://dx.doi.org/10.3758/s13414-021-02434-7" target="_blank">Attention, Perception & Psychophysics</a>
 
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
 

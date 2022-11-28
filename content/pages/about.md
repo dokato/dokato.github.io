@@ -67,7 +67,7 @@ Non-exhaustive list of my public presentations.
 
 **Scientific conferences**:
 
-*PyConIT 22* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SFN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*SfN 2022* (San Diego), *PyConIT 2022* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SfN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
@@ -76,13 +76,13 @@ Non-exhaustive list of my public presentations.
 
 **Meet-ups**:
 
-[SatRday Cardiff](https://cardiff2019.satrdays.org/), [SatRday Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
+[SatRday Amsterdam](http://amsterdam2018.satrdays.org/), [PyData Cardiff](https://www.meetup.com/PyData-Cardiff-Meetup/events/253161612/), [CaRdiff](https://www.meetup.com/Cardiff-R-User-Group/events/ddwgcnywpbdb/)
 
 ## <i class="fas fa-people-carry"></i> Community
 
 I am/was active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
 
-- (2021/22) Data Champions Community at *University of Cambridge*.
+- (2021-23) Data Champions at *University of Cambridge*.
 
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 
@@ -93,4 +93,3 @@ I am/was active member of various coding communities, i.e. CaRdiff R Users, AI W
 - (2019) Helping out at [BMVC](http://bmvc2019.org) conference in Cardiff;
 
 - (2018) Organising workshop [Best programming practices for open science](https://sciprogramming.wordpress.com/) for **GW4**. The workshop aimed to promote good programming standards for reproducible research.
-
