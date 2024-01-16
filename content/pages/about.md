@@ -2,11 +2,12 @@ Title: Home Page
 URL:
 save_as: index.html
 
-I work as a **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **neuroscience** and **machine learning**, particularly **decision making** (of humans, animals and machines).
-As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow and <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank"> Cambridge Data Champion</a>, I advocate for **open science**, by promoting good coding practices and contributing to **open source** software.
+Currently, I work as a **Senior Data Scientist** in the Machine Learning for Verification group at <a href="https://arm.com/" target="_blank">Arm</a>.
+Previously I was a **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **machine learning** and **healthcase**.
+As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for **open science**, by promoting good coding practices in research and by contributing to **open source** software.
 
-Some projects I worked on include: brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+Some projects I worked on include: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
 
 <center>
 <b><a href="contact.html" > Get in touch </a></b>
@@ -82,7 +83,7 @@ Non-exhaustive list of my public presentations.
 
 I am/was active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
 
-- (2021-23) Data Champions at *University of Cambridge*.
+- (2021-23) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
 
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 

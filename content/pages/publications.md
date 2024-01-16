@@ -4,6 +4,10 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Research publications
 
+- *Systematic annotation of a complete adult male Drosophila nerve cord connectome reveals principles of functional organisation* | Marin EC, ..., **Krzemiński D**, ..., Jefferis GSXE (2023) <a href="https://www.biorxiv.org/content/10.1101/2023.06.05.543407v1.abstract" target="_blank">bioarXiv</a>
+
+- *A Connectome of the Male Drosophila Ventral Nerve Cord* | Shin-ya Takemura, ..., **Krzemiński D**, ..., Jefferis GSXE, Berg S (2023) <a href="https://www.biorxiv.org/content/10.1101/2023.06.05.543757v1.abstract" target="_blank">bioarXiv</a>
+
 - *Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes* | **Krzemiński D**, Zhang J (2022) <a href="http://dx.doi.org/10.3758/s13414-021-02434-7" target="_blank">Attention, Perception & Psychophysics</a>
 
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
