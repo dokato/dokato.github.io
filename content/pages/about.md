@@ -3,11 +3,11 @@ URL:
 save_as: index.html
 
 Currently, I work as a **Senior Data Scientist** in the Machine Learning for Verification group at <a href="https://arm.com/" target="_blank">Arm</a>.
-Previously I was a **research software engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics Group</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **machine learning** and **healthcase**.
+Previously I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **machine learning** and **healthcare**.
 As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for **open science**, by promoting good coding practices in research and by contributing to **open source** software.
 
-Some projects I worked on include: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+In the past I worken on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
 
 <center>
 <b><a href="contact.html" > Get in touch </a></b>
@@ -66,13 +66,13 @@ Some projects I worked on include: connectomics, brain computer-interfaces, psyc
 
 Non-exhaustive list of my public presentations.
 
-**Scientific conferences**:
+**Conferences**:
 
 *SfN 2022* (San Diego), *PyConIT 2022* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SfN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
-[Code Review Workshop 2022](https://codereviewworkshop.netlify.app/)
+[Code Review Workshop 2022](https://codereviewworkshop.netlify.app/),
 [Big Data and High-Performance Computing 2018 & 2019](https://www.cardiff.ac.uk/study/international/summer-schools/summer-school-programmes/big-data-and-high-performance-computing) (invited talk), [Shiny semantic workshop at SatRday Gdańsk 2019](https://gdansk2019.satrdays.org/), [4th Baltic-Nordic Summer School on Neuroinformatics 2016](https://neuroinflab.wordpress.com/events/bnni-2016/)
 
 **Meet-ups**:
