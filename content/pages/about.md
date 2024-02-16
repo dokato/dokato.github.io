@@ -2,12 +2,12 @@ Title: Home Page
 URL:
 save_as: index.html
 
-Currently, I work as a **Senior Data Scientist** in the Machine Learning for Verification group at <a href="https://arm.com/" target="_blank">Arm</a>.
-Previously I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **machine learning** and **healthcare**.
+Hey, I work as a **Senior Data Scientist** in the Machine Learning for Verification group at <a href="https://arm.com/" target="_blank">Arm</a>.
+Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **machine learning**, **neuroscience** and **text processing**.
 As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for **open science**, by promoting good coding practices in research and by contributing to **open source** software.
 
-In the past I worken on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+In the past I worked on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
 
 <center>
 <b><a href="contact.html" > Get in touch </a></b>
@@ -15,13 +15,13 @@ In the past I worken on: connectomics, brain computer-interfaces, psychophysics,
 
 ## <i class="fas fa-atom"></i> Research publications
 
+- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2023) <a href="https://arxiv.org/abs/2402.06619" target="_blank">arXiv</a>
+
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
 
 - *Energy landscape of resting magnetoencephalography reveals fronto-parietal network impairments in epilepsy* | 
 **Krzemiński D**, Masuda N, Hamandi K, Singh KD, Routley B, Zhang J (2020) 
 <a href="https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00125" target="_blank">Network Neuroscience</a>
-
-- *A spiking neuron model of inferential decision making: Urgency, uncertainty, and the speed-accuracy tradeoff* | Duggins P, **Krzemiński D**, Eliasmith C, Wichary S (2020) <a href="http://compneuro.uwaterloo.ca/files/publications/duggins.2020.pdf" target="_blank">42nd Cognitive Science Annual Conference</a>
 
 - *Helmholtz principle on word embeddings for automatic document segmentation* | 
 **Krzemiński D**, Balinsky H, Balinsky A (2018) 
@@ -81,7 +81,9 @@ Non-exhaustive list of my public presentations.
 
 ## <i class="fas fa-people-carry"></i> Community
 
-I am/was active member of various coding communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
+I am/was active member of various tech communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
+
+- (2023-24) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
 
 - (2021-23) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
 
