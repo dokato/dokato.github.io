@@ -83,7 +83,7 @@ Non-exhaustive list of my public presentations.
 
 I am/was active member of various tech communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
 
-- (2023-24) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
+- (2023-24) <a href="https://txt.cohere.com/aya-multilingual/" target="_blank">European Regional Lead</a> at *Aya* projetc by *Cohere For AI*.
 
 - (2021-23) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
 
