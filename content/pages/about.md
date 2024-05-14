@@ -3,11 +3,11 @@ URL:
 save_as: index.html
 
 Hey, I work as a **Senior Data Scientist** in the Machine Learning for Verification group at <a href="https://arm.com/" target="_blank">Arm</a>.
-Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> lab at <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
 I'm interested in **machine learning**, **neuroscience** and **text processing**.
 As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for **open science**, by promoting good coding practices in research and by contributing to **open source** software.
 
-In the past I worked on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, <a href="https://shiny.tools/" target="_blank">R Shiny</a> packages and artificial neural networks.
+In the past I worked on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language processing, R packages and artificial neural networks.
 
 <center>
 <b><a href="contact.html" > Get in touch </a></b>
@@ -42,19 +42,19 @@ In the past I worked on: connectomics, brain computer-interfaces, psychophysics,
 
 - <a href="https://appsilon.com/generate-shiny-code-with-rnn/" target="_blank"> Can we use a neural network to generate Shiny code? </a> - 2019
 
-- <a href="http://www.deltami.edu.pl/temat/informatyka/sztuczna_inteligencja/2018/10/22/Nie_takie_sztuczne_neurony/" target="_blank"> Not so artificial neurons [only PL]</a> - article in Polish popular science magazine **Delta**; 2018
+- <a href="http://www.deltami.edu.pl/temat/informatyka/sztuczna_inteligencja/2018/10/22/Nie_takie_sztuczne_neurony/" target="_blank"> Not so artificial neurons [PL]</a> - article in Polish popular science magazine **Delta**; 2018
 
 - <a href="https://appsilon.com/internationalization-of-shiny-apps-i18n/" target="_blank"> Internationalization of shiny apps has never been easier </a> - 2018
 
 ## <i class="fas fa-laptop"></i> Software
 
-- [TODOr](https://github.com/dokato/todor) - **addin to RStudio**, which helps discover all TODO places in the RStudio (rewarded as an **[addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio**).
+- [TODOr](https://github.com/dokato/todor) - **addin to RStudio**, which helps discover all TODO places in the RStudio ([addin of the day](https://twitter.com/rstudiotips/status/1128700643579842560) by RStudio).
 
 - [Websites for Health Assesment Tool](https://github.com/dokato/healthcareonlinesources) - provides users with a ranking of online medical information sources credibility. Created at **NHS HackDay 2020** - 3rd place in a community vote. Chrome extension available to download from the <a href="https://chrome.google.com/webstore/detail/what-websites-for-health/maoedkipekbhpphphjmnmoccdgkkahfn" target="_blank"> Chrome store</a>. Also, see sister project: <a href="https://www.authentisci.com/" target="_blank"> AuthentiSci</a>.
 
-- [ARmadillo](https://armadillo-brain.herokuapp.com/) - **augmented reality** 3D MRI data visualization project, created at **OHBM Hackathon 2018** in Singapore.
+- [ARmadillo](https://github.com/TimVanMourik/Armadillo) - **augmented reality** 3D MRI data visualization; created at **OHBM Hackathon 2018** in Singapore.
 
-- [DFA python](https://github.com/dokato/dfa) - a simple implementation of **Detrended Fluctuation Analysis**  algorithm in python.
+- [DFA python](https://github.com/dokato/dfa) - an implementation of **Detrended Fluctuation Analysis**  algorithm.
 
 - [ConnectiviPy](https://github.com/dokato/connectivipy) - **Google Summer of Code** 2016 project. From scratch implementation of a Python module with various brain connectivity estimators.
 
@@ -81,11 +81,11 @@ Non-exhaustive list of my public presentations.
 
 ## <i class="fas fa-people-carry"></i> Community
 
-I am/was active member of various tech communities, i.e. CaRdiff R Users, AI Wales and PyData Cardiff. Also, I was involved in:
+I am/was active member of various tech communities:
 
-- (2023-24) <a href="https://txt.cohere.com/aya-multilingual/" target="_blank">European Regional Lead</a> at *Aya* projetc by *Cohere For AI*.
+- (2023-24) <a href="https://txt.cohere.com/aya-multilingual/" target="_blank">European Regional Lead</a> for *Aya* project by *Cohere For AI*.
 
-- (2021-23) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champions</a> at *University of Cambridge*.
+- (2021-23) <a href="https://www.data.cam.ac.uk/data-champions-search" target="_blank">Data Champion</a> at *University of Cambridge*.
 
 - (2020) Tutoring and co-organising *Brain Modelling Workshop* at Cardiff University;
 
