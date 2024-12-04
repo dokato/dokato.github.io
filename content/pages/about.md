@@ -15,7 +15,7 @@ In the past I worked on: connectomics, brain computer-interfaces, psychophysics,
 
 ## <i class="fas fa-atom"></i> Research publications
 
-- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2023) <a href="https://arxiv.org/abs/2402.06619" target="_blank">arXiv</a>
+- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2024) <a href="https://arxiv.org/abs/2402.06619" target="_blank">ACL 2024</a>
 
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
 

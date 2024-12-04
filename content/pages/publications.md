@@ -4,11 +4,13 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Research publications
 
-- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2023) <a href="https://arxiv.org/abs/2402.06619" target="_blank">arXiv</a>
+- *INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge* | Romanou A, ..., **Krzemiński D**, ..., Bosselut A (2023) <a href="https://arxiv.org/abs/2411.19799" target="_blank">arXiv</a>
 
-- *Systematic annotation of a complete adult male Drosophila nerve cord connectome reveals principles of functional organisation* | Marin EC, ..., **Krzemiński D**, ..., Jefferis GSXE (2023) <a href="https://www.biorxiv.org/content/10.1101/2023.06.05.543407v1.abstract" target="_blank">bioarXiv</a>
+- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2023) <a href="https://arxiv.org/abs/2402.06619" target="_blank">ACL 2024</a>
 
-- *A Connectome of the Male Drosophila Ventral Nerve Cord* | Shin-ya Takemura, ..., **Krzemiński D**, ..., Jefferis GSXE, Berg S (2023) <a href="https://www.biorxiv.org/content/10.1101/2023.06.05.543757v1.abstract" target="_blank">bioarXiv</a>
+- *Systematic annotation of a complete adult male Drosophila nerve cord connectome reveals principles of functional organisation* | Marin EC, ..., **Krzemiński D**, ..., Jefferis GSXE (2023) <a href="https://elifesciences.org/reviewed-preprints/97766" target="_blank">eLife</a>
+
+- *A Connectome of the Male Drosophila Ventral Nerve Cord* | Shin-ya Takemura, ..., **Krzemiński D**, ..., Jefferis GSXE, Berg S (2023) <a href="https://elifesciences.org/reviewed-preprints/97769" target="_blank">eLife</a>
 
 - *Imperfect integration: sensory congruency between multiple sources modulates selective decision-making processes* | **Krzemiński D**, Zhang J (2022) <a href="http://dx.doi.org/10.3758/s13414-021-02434-7" target="_blank">Attention, Perception & Psychophysics</a>
 
