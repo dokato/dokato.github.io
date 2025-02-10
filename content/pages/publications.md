@@ -4,9 +4,11 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Research publications
 
-- *INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge* | Romanou A, ..., **Krzemiński D**, ..., Bosselut A (2023) <a href="https://arxiv.org/abs/2411.19799" target="_blank">arXiv</a>
+- *MMTEB: Massive Multilingual Text Embedding Benchmark* | Enevoldsen K, ..., **Krzemiński D**, ..., Muennighoff N (2025) <a href="https://openreview.net/forum?id=zl3pfz4VCV" target="_blank">ICLR 2025</a>
 
-- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2023) <a href="https://arxiv.org/abs/2402.06619" target="_blank">ACL 2024</a>
+- *INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge* | Romanou A, ..., **Krzemiński D**, ..., Bosselut A (2025) <a href="https://arxiv.org/abs/2411.19799" target="_blank">ICLR 2025</a>
+
+- *Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning* | Singh S, ..., **Krzemiński D**, ..., Hooker S (2024) <a href="https://arxiv.org/abs/2402.06619" target="_blank">ACL 2024</a>
 
 - *Systematic annotation of a complete adult male Drosophila nerve cord connectome reveals principles of functional organisation* | Marin EC, ..., **Krzemiński D**, ..., Jefferis GSXE (2023) <a href="https://elifesciences.org/reviewed-preprints/97766" target="_blank">eLife</a>
 
@@ -16,7 +18,7 @@ save_as: publications.html
 
 - *Open source software for automatic subregional assessment of knee cartilage degradation using quantitative T2 relaxometry and deep learning* | Thomas KA, **Krzemiński D**, Kidziński Ł, Paul R, Rubin EB, Halilaj E, Black MS, Chaudhari A, Gold GE, Delp SL (2021) <a href="https://journals.sagepub.com/doi/10.1177/19476035211042406" target="_blank">Cartilage</a>
 
-- *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | Lopes MA, **Krzemiński D**, Hamandi K., Singh KD, Masuda N, Terry JR, Zhang J (2021) <a href="https://doi.org/10.1101/2020.05.18.20102681" target="_blank">Clinical Neurophysiology</a>
+- *A computational biomarker of juvenile myoclonic epilepsy from resting-state MEG* | Lopes MA, **Krzemiński D**, Hamandi K, Singh KD, Masuda N, Terry JR, Zhang J (2021) <a href="https://doi.org/10.1101/2020.05.18.20102681" target="_blank">Clinical Neurophysiology</a>
 
 - *Breaking Deadlocks: Reward Probability and Spontaneous Preference Shape Voluntary Decisions and Electrophysiological Signals in Humans* | 
 Zajkowski W, **Krzemiński D**, Barone J, Evans LH, Zhang J (2020) 
