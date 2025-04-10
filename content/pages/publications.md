@@ -4,6 +4,9 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Research publications
 
+
+- *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation* | Salazar I, ..., **Krzemiński D**, ..., Fadaee M (2025) <a href="https://arxiv.org/abs/2504.07072" target="_blank">arXiv</a>
+
 - *MMTEB: Massive Multilingual Text Embedding Benchmark* | Enevoldsen K, ..., **Krzemiński D**, ..., Muennighoff N (2025) <a href="https://openreview.net/forum?id=zl3pfz4VCV" target="_blank">ICLR 2025</a>
 
 - *INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge* | Romanou A, ..., **Krzemiński D**, ..., Bosselut A (2025) <a href="https://arxiv.org/abs/2411.19799" target="_blank">ICLR 2025</a>
