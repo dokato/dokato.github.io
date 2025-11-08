@@ -23,7 +23,6 @@ Other places:
 
 <center>
 <a href="https://github.com/dokato"><i class="fab fa-github fa-2x"></i></a>
-<a href="https://twitter.com/dokatox"><i class="fab fa-twitter-square fa-2x"></i></a>
 <a href="https://www.linkedin.com/in/dkrzem"><i class="fab fa-linkedin fa-2x"></i></a>
 
 </center>

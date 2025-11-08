@@ -34,6 +34,8 @@ In the past I worked on: connectomics, brain computer-interfaces, psychophysics,
 
 ## <i class="fas fa-pen-nib"></i> Other writing
 
+- <a href="https://www.deltami.edu.pl/2025/07/jak-stworzyc-mape-mozgu/" target="_blank"> How to build a map of the brain? [PL]</a> - Delta 2025
+
 - <a href="https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review" target="_blank"> Treat your research code with a code review </a> - 2022
 
 - <a href="https://ccbrain.org/science/Onlinetesting/" target="_blank"> Our experience running online experiments </a> - 2020
