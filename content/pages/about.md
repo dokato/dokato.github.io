@@ -2,10 +2,10 @@ Title: Home Page
 URL:
 save_as: index.html
 
-Hey, I work as a **Senior Data Engineer** in the genAI group at <a href="https://arm.com/" target="_blank">Arm</a>, where I implement LLM pipelines to support technical documentation access and analysis.
-Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Drosophila Connectomics</a> lab at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
-I'm interested in **neuroscience**, **machine learning**, and **text processing**.
-As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for **open science**, by promoting good coding practices in research and by contributing to **open source** software.
+Hey, I work as a **Senior Engineer** in the AI for Productivity team at <a href="https://arm.com/" target="_blank">Arm</a>, where I develop agentic/LLM pipelines and data analysis tools to support various aspects of hardware design.
+Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Connectomics</a> lab at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
+I'm interested in **artificial intelligence**, **brain research** and social impact.
+As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for good coding practices in research and by contributing to **open source** software.
 
 In the past I worked on: connectomics, brain computer-interfaces, psychophysics, brain functional connectivity, natural language analysis, R packages and artificial neural networks.
 
@@ -68,7 +68,7 @@ Non-exhaustive list of my public presentations.
 
 **Conferences**:
 
-*SfN 2022* (San Diego), *PyConIT 2022* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLPrague 2021* (online), *MLinPL'20* (online), *Neuromatch2* (online), *SfN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Cracow), *4th Aspects of Neuroscience 2014* (Warsaw)
+*dotAI 2025* (Paris), *Science Polish Perspectives 2025* (Cambridge), *MLPrague 2023* (Prague), *SfN 2022* (San Diego), *PyConIT 2022* (Florence), *Connectomics 2022* (Berlin), *SBDM 2021* (Paris), *MLinPL'20* (online), *Neuromatch2* (online), *SfN 2019* (Chicago),  *ITAI 2019* (Cardiff), *HEALTAC 2019* (Cardiff), *MEG UK 2019* (Cardiff), *Science Polish Perspectives 2018* (Oxford), *OHBM 2018* (Singapore), *MEG UK 2018* (Londonderry/Derry), *Brainstorm 2016* (Warsaw), *Mind, Brain and Body Symposium 2016* (Berlin), *Neuronus 2015* (Krakow), *Aspects of Neuroscience 2014* (Warsaw)
 
 **Workshops**:
 
