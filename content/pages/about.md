@@ -2,7 +2,7 @@ Title: Home Page
 URL:
 save_as: index.html
 
-Hey, I work as a **Senior Engineer** in the AI for Productivity team at <a href="https://arm.com/" target="_blank">Arm</a>, where I develop agentic/LLM pipelines and data analysis tools to support various aspects of hardware design.
+Hey, I work as an **AI Engineer** in the AI for Productivity team at <a href="https://arm.com/" target="_blank">Arm</a>, where I develop agentic/LLM pipelines and data analysis tools to support various aspects of hardware design.
 Previously, I was a **Research Software Engineer** in the <a href="https://flyconnecto.me/" target="_blank">Connectomics</a> lab at the <a href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a>.
 I'm interested in **artificial intelligence**, **brain research** and social impact.
 As a <a href="https://www.software.ac.uk/" target="_blank">Software Sustainability Institute</a> Fellow, I advocate for good coding practices in research and by contributing to **open source** software.
