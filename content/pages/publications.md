@@ -4,8 +4,9 @@ save_as: publications.html
 
 ## <i class="fas fa-atom"></i> Research publications
 
+- *CulturalRiddles: A Multicultural Benchmark of Riddles* | Nguyen MC, ..., **Krzemiński D**, ..., Kreutzer J (2026) <a href="https://huggingface.co/papers/2610.29968" target="_blank">EMNLP: MRL workshop 2026</a> 
 
-- *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation* | Salazar I, ..., **Krzemiński D**, ..., Fadaee M (2025) <a href="https://openreview.net/forum?id=zCYXhSy9UH" target="_blank">ICLR 2026</a>
+- *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation* | Salazar I, ..., **Krzemiński D**, ..., Fadaee M (2026) <a href="https://openreview.net/forum?id=zCYXhSy9UH" target="_blank">ICLR 2026</a>
 
 - *MMTEB: Massive Multilingual Text Embedding Benchmark* | Enevoldsen K, ..., **Krzemiński D**, ..., Muennighoff N (2025) <a href="https://openreview.net/forum?id=zl3pfz4VCV" target="_blank">ICLR 2025</a>
 
